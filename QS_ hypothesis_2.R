@@ -1,4 +1,4 @@
-setwd("E:/Mahdieh_CourseUniversity/ALY6010/Module_1/Milleson_1")
+setwd("E:/Milleson_1/")
 
 # read in data
 # install.packages("readr")
